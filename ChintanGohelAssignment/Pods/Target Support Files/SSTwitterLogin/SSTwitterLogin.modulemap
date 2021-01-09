@@ -1,0 +1,6 @@
+framework module SSTwitterLogin {
+  umbrella header "SSTwitterLogin-umbrella.h"
+
+  export *
+  module * { export * }
+}

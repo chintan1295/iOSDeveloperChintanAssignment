@@ -1,0 +1,6 @@
+framework module Pods_ChintanGohelAssignment {
+  umbrella header "Pods-ChintanGohelAssignment-umbrella.h"
+
+  export *
+  module * { export * }
+}

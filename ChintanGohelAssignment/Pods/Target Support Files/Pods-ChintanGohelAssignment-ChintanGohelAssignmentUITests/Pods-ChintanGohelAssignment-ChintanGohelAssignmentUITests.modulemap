@@ -1,0 +1,6 @@
+framework module Pods_ChintanGohelAssignment_ChintanGohelAssignmentUITests {
+  umbrella header "Pods-ChintanGohelAssignment-ChintanGohelAssignmentUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

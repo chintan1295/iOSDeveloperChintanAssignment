@@ -1,0 +1,30 @@
+PODS:
+  - SDWebImage (5.10.0):
+    - SDWebImage/Core (= 5.10.0)
+  - SDWebImage/Core (5.10.0)
+  - SSTwitterLogin (2.0.4):
+    - TwitterKit (= 3.4.2)
+  - TwitterCore (3.2.0)
+  - TwitterKit (3.4.2):
+    - TwitterCore (>= 3.2.0)
+
+DEPENDENCIES:
+  - SDWebImage (= 5.10.0)
+  - SSTwitterLogin
+
+SPEC REPOS:
+  trunk:
+    - SDWebImage
+    - SSTwitterLogin
+    - TwitterCore
+    - TwitterKit
+
+SPEC CHECKSUMS:
+  SDWebImage: 9169792e9eec3e45bba2a0c02f74bf8bd922d1ee
+  SSTwitterLogin: 3e263d3a0c6358b25b6da5391a360fd6205c7a87
+  TwitterCore: 8cbc9ad34d91c63a0035ea05bfbfc0d7ca72a28c
+  TwitterKit: 5e4f41d70b9abdb41df5467f52d7aa2c0fd26ebb
+
+PODFILE CHECKSUM: 120035da0107af4e4b3ffa59cddc7d3c1e609c01
+
+COCOAPODS: 1.10.0
